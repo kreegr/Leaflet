@@ -4,6 +4,7 @@
  * See http://cloudmade.github.com/Leaflet/ for more information.
  */
 
+// TEST COMMENT 
 (function(root) {
 	var L = {
 		VERSION: '0.2',
